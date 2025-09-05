@@ -12,6 +12,17 @@ O projeto é **didático**, servindo como material de apoio e prática para fixa
 
 ---
 
+## Objetivos
+Este repositório não tem fins comerciais. O objetivo é:
+
+Consolidar os conceitos aprendidos em sala de aula virtual.
+
+Servir como material de consulta rápida no futuro.
+
+Compartilhar conhecimento com outros estudantes de Python.
+
+---
+
 ## 📚 Conceitos estudados
 - Classes e Objetos
 - Construtores (`__init__`)
@@ -29,3 +40,12 @@ O projeto é **didático**, servindo como material de apoio e prática para fixa
 ```bash
 git clone https://github.com/seu-usuario/estudos-poo-python.git
 cd estudos-poo-python
+```
+
+## Referência
+
+- Curso: Python: entendendo a Orientação a Objetos (Alura)
+https://www.alura.com.br/curso-online-python-3-introducao-a-orientacao-a-objetos
+
+- Documentação oficial do Python
+https://docs.python.org/3
